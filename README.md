@@ -8,6 +8,6 @@ About this project:<br>
 <br>
 -Category page to choose which News u want .<br>
 <br>
--Details page to show all details of the News that u choose , and it show when click u on the image of News.
+-Details page to show all details of the News that u choose , and it show when u click on the image of News.
 
 
